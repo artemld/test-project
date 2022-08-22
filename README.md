@@ -1,2 +1,1 @@
 test-project
-newTest3
